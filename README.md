@@ -21,7 +21,8 @@ I'm Fakhri Djuanda a Not Developer and Content Creator on [Youtube](https://yout
 <br />
 Currently working at:
 
-- [Gustixa's Home](https://zhycorp.com/) as a Mod Leader [![Gustixa's Home](https://discordapp.com/api/guilds/804912797795352658/embed.png)](https://discord.gg/4rjEeE8NXc)
+- [Gustixa's Home](https://discordapp.com/api/guilds/804912797795352658/embed.png)](https://discord.gg/4rjEeE8NXc as a Mod Leader [![Gustixa's Home](https://discordapp.com/api/guilds/804912797795352658/embed.png)](https://discord.gg/4rjEeE8NXc)
+- [Kudet Tech]()
 <br />
 
 
