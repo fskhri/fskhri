@@ -18,7 +18,9 @@ I'm Fakhri Djuanda a Not Developer and Not Content Creator on [Youtube](https://
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
 
 <br />
@@ -53,7 +55,23 @@ Lua          2 mins          ▒░░░░░░░░░░░░░░░░
 
 #### Github Stats
 
-![Fakhri github stats](https://github-readme-stats.vercel.app/api?username=fskhrijuanda&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Fakhri github stats](https://github-readme-stats.vercel.app/api?username=fskhrijuanda&count_private=true&show_icons=true&theme=radical)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fskhrijuanda&layout=compact&theme=radical" />
+</a>
+
+</a>
+<a href="https://github.com/fskhrijuanda/Clock-bot-discord">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fskhrijuanda&repo=Clock-bot-discord&theme=radical" />
+</a>
+
+</a>
+<a href="https://github.com/fskhrijuanda/Not-Waifu-Bot">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fskhrijuanda&repo=Not-Waifu-Bot&theme=radical" />
+</a> 
 
 </details>
 
