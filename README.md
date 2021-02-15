@@ -7,7 +7,7 @@ I'm Fakhri Djuanda a Not Developer and Not Content Creator on [Youtube](https://
 <!-- TODO: Add last video link -->
 
 - 🤔 Cuma belajar dari youtube dan meniru nya
-- 😄 Bukan developer
+- 😄 Bukan Developer
 - ⚡ Gw seneng main game, udh sih gitu aja
 
 ### Listening To Spotify 🎧
