@@ -35,7 +35,11 @@ I'm Fakhri Djuanda a Not Developer and Content Creator on [Youtube](https://yout
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   1 hr 6 mins     ███████████████▓░░░░░░░░░   62.65 % 
+JSON         19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.97 % 
+Markdown     14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Git Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Lua          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 <!--END_SECTION:waka-->
 
