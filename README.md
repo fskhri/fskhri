@@ -2,7 +2,6 @@
 
 I'm Fakhri Djuanda a Not Developer and Content Creator on [Youtube](https://youtu.be/dQw4w9WgXcQ).
 
-:mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-NotF-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Fakhri50434989)](https://twitter.com/Fakhri50434989) [![Mail Badge](https://img.shields.io/badge/-@riririfak-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/riririfak)
 <!-- TODO: Add last video link -->
@@ -13,7 +12,7 @@ I'm Fakhri Djuanda a Not Developer and Content Creator on [Youtube](https://yout
 
 ### Listening To Spotify 🎧
 
-[<img src="https://spotify-now-playing-tawny.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/79dce9bb208443589cbda2a107366c54)
+[<img src="https://iyah.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/79dce9bb208443589cbda2a107366c54)
 
 #### Top Technologies
 
