@@ -19,6 +19,9 @@ I'm Fakhri Djuanda a Not Developer and Content Creator on [Youtube](https://yout
 
 
 <br />
+Currently working at:
+
+- [Gustixa's Home](https://zhycorp.com/) as a Moderator [![Gustixa's Home](https://discordapp.com/api/guilds/804912797795352658/embed.png)](https://discord.gg/4rjEeE8NXc)
 <br />
 
 
