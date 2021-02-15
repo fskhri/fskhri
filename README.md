@@ -13,7 +13,7 @@ I'm Fakhri Djuanda a Not Developer and Content Creator on [Youtube](https://yout
 
 ### Listening To Spotify 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/79dce9bb208443589cbda2a107366c54)
+[<img src="https://spotify-now-playing-tawny.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/79dce9bb208443589cbda2a107366c54)
 
 #### Top Technologies
 
