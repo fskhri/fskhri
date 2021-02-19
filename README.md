@@ -45,11 +45,11 @@ Currently working at:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 8 mins     ███████████░░░░░░░░░░░░░░   44.61 % 
-Markdown     59 mins         █████████▓░░░░░░░░░░░░░░░   38.90 % 
-JSON         19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Git Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Lua          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+JavaScript   1 hr 14 mins    ███████████░░░░░░░░░░░░░░   43.38 % 
+Markdown     59 mins         ████████▓░░░░░░░░░░░░░░░░   34.76 % 
+JSON         19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Python       12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 ```
 <!--END_SECTION:waka-->
 
