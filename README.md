@@ -79,6 +79,11 @@ Git Config   3 mins          ▒░░░░░░░░░░░░░░░░
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fskhrijuanda&repo=Not-Waifu-Bot&theme=radical" />
 </a> 
 
+</a>
+<a href="https://github.com/fskhrijuanda/Not-Waifu-Bot">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fskhrijuanda&repo=Not-Waifu-Bot&theme=radical" />
+</a> 
+
 </details>
 
 
