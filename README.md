@@ -37,6 +37,12 @@ Currently working at:
 - [Kudet Tech](https://discordapp.com/api/guilds/456930895287549984/embed.png) as a Kudet Abadi [![Kudet Tech](https://discordapp.com/api/guilds/456930895287549984/embed.png)](https://discord.gg/yVttQhP3yG)
 <br />
 
+#### Vote Bot Ku Ya
+
+<a href="https://top.gg/bot/680297296348315649">
+    <img src="https://top.gg/api/widget/680297296348315649.svg" alt="Clip Bots" />
+</a>
+
 
 
 <details>
