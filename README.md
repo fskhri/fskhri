@@ -57,9 +57,10 @@ Currently working at:
 
 <!--START_SECTION:waka-->
 ```text
-HTML         21 mins         ████████████▒░░░░░░░░░░░░   49.94 % 
-Python       13 mins         ████████▒░░░░░░░░░░░░░░░░   32.74 % 
-JavaScript   5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Python       25 mins         █████████████░░░░░░░░░░░░   51.43 % 
+HTML         12 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.41 % 
+JavaScript   5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+JSON         5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
 ```
 <!--END_SECTION:waka-->
 
