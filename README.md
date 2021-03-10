@@ -39,8 +39,8 @@ Currently working at:
 
 #### Vote Bot Ku Ya
 
-<a href="https://top.gg/bot/680297296348315649">
-    <img src="https://top.gg/api/widget/680297296348315649.svg" alt="Clip Bots" />
+<a href="https://www.matrixbots.xyz/embed/680297296348315649">
+    <img src="https://top.gg/api/widget/680297296348315649" alt="Clip Bots" />
 </a>
 
 <a href="https://www.matrixbots.xyz/bots/705174827081793586">
