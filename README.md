@@ -93,3 +93,6 @@ CSS          1 min           █░░░░░░░░░░░░░░░░
 ### Donate
 * <a href="https://saweria.co/donate/fakhri"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 
+<p align="center">
+<a href="https://github.com/fskhrijuanda"><img title="Author" src="https://img.shields.io/badge/badge/Author-Fakhri-red.svg?style=for-the-badge&logo=github"></a>
+</p>
