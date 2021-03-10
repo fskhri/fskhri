@@ -43,8 +43,8 @@ Currently working at:
     <img src="https://top.gg/api/widget/680297296348315649.svg" alt="Clip Bots" />
 </a>
 
-<a href="https://www.matrixbots.xyz/bots/680297296348315649">
-    <img src="https://www.matrixbots.xyz/api/embed/680297296348315649.svg" alt="Clip Bots" />
+<a href="https://www.matrixbots.xyz/bots/705174827081793586">
+    <img src="https://www.matrixbots.xyz/api/embed/705174827081793586" alt="Clip Bots" />
 </a>
 
 
