@@ -61,9 +61,9 @@ Currently working at:
 
 <!--START_SECTION:waka-->
 ```text
-HTML         18 mins         █████████████░░░░░░░░░░░░   51.53 % 
-JavaScript   14 mins         ██████████░░░░░░░░░░░░░░░   39.76 % 
-CSS          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+HTML         18 mins         ██████████████░░░░░░░░░░░   55.38 % 
+JavaScript   11 mins         ████████▓░░░░░░░░░░░░░░░░   35.30 % 
+CSS          1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 ```
 <!--END_SECTION:waka-->
 
