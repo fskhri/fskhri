@@ -61,8 +61,7 @@ Currently working at:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   6 mins          █████████████░░░░░░░░░░░░   51.60 % 
-Markdown     6 mins          ███████████▓░░░░░░░░░░░░░   47.16 % 
+Markdown     6 mins          ██████████████████████▒░░   89.91 % 
 ```
 <!--END_SECTION:waka-->
 
