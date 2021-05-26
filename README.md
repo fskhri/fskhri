@@ -39,8 +39,8 @@ Currently working at:
 
 #### Vote Bot Ku Ya
 
-<a href="https://www.matrixbots.xyz/embed/680297296348315649">
-    <img src="https://www.matrixbots.xyz/api/embed/680297296348315649" alt="ChikaBot" />
+<a href="https://www.top.gg/embed/680297296348315649">
+    <img src="https://www.top.gg/api/embed/680297296348315649" alt="KaguyaBot" />
 </a>
 
 <a href="https://www.matrixbots.xyz/bots/705174827081793586">
