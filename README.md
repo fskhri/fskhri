@@ -32,7 +32,7 @@ I'm fskhrijuanda a Not Developer and Not Content Creator on [Youtube](https://yo
 <br />
 Currently working at:
 
-- [Gustixa's Home](https://discordapp.com/api/guilds/804912797795352658/embed.png) as a Mod Leader [![Gustixa's Home](https://discordapp.com/api/guilds/804912797795352658/embed.png)](https://discord.gg/4rjEeE8NXc)
+- [Gustixa's Home](https://discordapp.com/api/guilds/804912797795352658/embed.png) as a Mod Leader [![Gustixa's Home](https://discordapp.com/api/guilds/456930895287549984/embed.png)](https://discord.gg/4rjEeE8NXc)
 
 - [Kudet Tech](https://discordapp.com/api/guilds/456930895287549984/embed.png) as a Kudet Abadi [![Kudet Tech](https://discordapp.com/api/guilds/456930895287549984/embed.png)](https://discord.gg/yVttQhP3yG)
 <br />
