@@ -32,9 +32,9 @@ I'm fskhrijuanda a Not Developer and Not Content Creator on [Youtube](https://yo
 <br />
 Currently working at:
 
-- [Gustixa's Home](https://discordapp.com/api/guilds/804912797795352658/embed.png) as a Mod Leader [![Gustixa's Home](https://discordapp.com/api/guilds/456930895287549984/embed.png)](https://discord.gg/4rjEeE8NXc)
+- [Gustixa's Home](https://discordapp.com/api/guilds/804912797795352658/embed.png) as a Mod Leader [![Gustixa's Home](https://discordapp.com/api/guilds/456930895287549984/embed.png)](https://discord.gg/rfuSj2Xg)
 
-- [Kudet Tech](https://discordapp.com/api/guilds/456930895287549984/embed.png) as a Kudet Abadi [![Kudet Tech](https://discordapp.com/api/guilds/456930895287549984/embed.png)](https://discord.gg/yVttQhP3yG)
+- [Kudet Tech](https://discordapp.com/api/guilds/456930895287549984/embed.png) as a Kudet Abadi [![Kudet Tech](https://discordapp.com/api/guilds/456930895287549984/embed.png)](https://discord.gg/AmfxHPKs)
 <br />
 
 #### Vote Bot Ku Ya
@@ -98,3 +98,5 @@ No Activity tracked this Week
 <p align="center">
 <a href="https://github.com/fskhrijuanda"><img title="Author" src="https://img.shields.io/badge/badge/Author-Fakhri-red.svg?style=for-the-badge&logo=github"></a>
 </p>
+
+
