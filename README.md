@@ -30,22 +30,6 @@ I'm fskhrijuanda a Not Developer and Not Content Creator on [Youtube](https://yo
 
 
 <br />
-Currently working at:
-
-- [Gustixa's Home](https://discordapp.com/api/guilds/804912797795352658/embed.png) as a Mod Leader [![Gustixa's Home](https://discordapp.com/api/guilds/456930895287549984/embed.png)](https://discord.gg/rfuSj2Xg)
-
-- [Kudet Tech](https://discordapp.com/api/guilds/456930895287549984/embed.png) as a Kudet Abadi [![Kudet Tech](https://discordapp.com/api/guilds/456930895287549984/embed.png)](https://discord.gg/AmfxHPKs)
-<br />
-
-#### Vote Bot Ku Ya
-
-<a href="https://www.top.gg/embed/680297296348315649">
-    <img src="https://www.top.gg/api/embed/680297296348315649" alt="KaguyaBot" />
-</a>
-
-<a href="https://www.matrixbots.xyz/bots/705174827081793586">
-    <img src="https://www.matrixbots.xyz/api/embed/705174827081793586" alt="Clip Bots" />
-</a>
 
 
 
