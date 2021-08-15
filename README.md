@@ -33,6 +33,8 @@ I'm fskhrijuanda a Not Developer and Not Content Creator on [Youtube](https://yo
 
 
 
+
+
 <details>
 <summary>
   Github Stats
@@ -41,7 +43,7 @@ I'm fskhrijuanda a Not Developer and Not Content Creator on [Youtube](https://yo
 <br >
   
 <div align="center">
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7b3d2bf0-fd97-475d-af84-c089b252445e/deotrea-921916f9-cff6-4646-b18f-54490412c276.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdiM2QyYmYwLWZkOTctNDc1ZC1hZjg0LWMwODliMjUyNDQ1ZVwvZGVvdHJlYS05MjE5MTZmOS1jZmY2LTQ2NDYtYjE4Zi01NDQ5MDQxMmMyNzYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TxwJCiI8r115Q21q5u92wt1Lf5AMS57y0K7Q15mqbKY" align="center" style="width: 100%" />
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7b3d2bf0-fd97-475d-af84-c089b252445e/deotrea-921916f9-cff6-4646-b18f-54490412c276.gif" align="center" style="width: 100%" />
 </div>  
 
 
