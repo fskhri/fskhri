@@ -22,9 +22,7 @@ I'm fskhrijuanda a Not Developer and Not Content Creator on [Youtube](https://yo
 
 <br >
   
-<div align="center">
 <img src="https://i.pinimg.com/originals/e1/e9/0a/e1e90a27438a96bc7579956bf43dee03.gif" align="center" style="width: 100%" />
-</div>  
 
 #### Top Technologies
 
