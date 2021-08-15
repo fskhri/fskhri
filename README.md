@@ -20,6 +20,12 @@ I'm fskhrijuanda a Not Developer and Not Content Creator on [Youtube](https://yo
 
 [<img src="https://iyah.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/79dce9bb208443589cbda2a107366c54)
 
+<br >
+  
+<div align="center">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7b3d2bf0-fd97-475d-af84-c089b252445e/deotrea-921916f9-cff6-4646-b18f-54490412c276.gif" align="center" style="width: 100%" />
+</div>  
+
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
@@ -32,19 +38,10 @@ I'm fskhrijuanda a Not Developer and Not Content Creator on [Youtube](https://yo
 <br />
 
 
-
-
-
 <details>
 <summary>
   Github Stats
 </summary>
-
-<br >
-  
-<div align="center">
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7b3d2bf0-fd97-475d-af84-c089b252445e/deotrea-921916f9-cff6-4646-b18f-54490412c276.gif" align="center" style="width: 100%" />
-</div>  
 
 
 #### Coding Stats
