@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/fskhrijuanda/fskhrijuanda/blob/master/e1e90a27438a96bc7579956bf43dee03.gif" align="center" style="width: 100%" />
 </div>  
 
 
@@ -19,12 +19,6 @@ I'm fskhrijuanda a Not Developer and Not Content Creator on [Youtube](https://yo
 ### Listening To Spotify 🎧
 
 [<img src="https://iyah.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/79dce9bb208443589cbda2a107366c54)
-
-<br >
-
-<div align="center">
-<img src="https://github.com/fskhrijuanda/fskhrijuanda/blob/master/e1e90a27438a96bc7579956bf43dee03.gif" align="center" style="width: 500%" />
-</div>  
 
 #### Top Technologies
 
