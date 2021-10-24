@@ -42,7 +42,7 @@ I'm fskhrijuanda a Not Developer and Not Content Creator on [Youtube](https://yo
 
 <!--START_SECTION:waka-->
 ```text
-Python   15 mins         ███████████████████████▓░   95.04 % 
+Python   15 mins         ████████████████████████░   95.47 % 
 ```
 <!--END_SECTION:waka-->
 
