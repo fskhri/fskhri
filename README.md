@@ -42,8 +42,9 @@ I'm fskhrijuanda a Not Developer and Not Content Creator on [Youtube](https://yo
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   6 mins          ████████████████████░░░░░   79.78 % 
-JSON         1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+INI          10 mins         █████████████▓░░░░░░░░░░░   54.95 % 
+JavaScript   6 mins          █████████░░░░░░░░░░░░░░░░   35.94 % 
+JSON         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 <!--END_SECTION:waka-->
 
