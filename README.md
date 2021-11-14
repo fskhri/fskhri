@@ -17,7 +17,7 @@ I'm fskhrijuanda a Not Developer and Not Content Creator on [Youtube](https://yo
 
 - 🤔 Cuma belajar dari youtube dan meniru nya
 - 😄 Bukan Developer
-- ⚡ Gw seneng main game, udh sih gitu aja
+- ⚡ Gw seneng main game
 - 💼 Menjadi moderator di discord selama 2 tahun
 - 🌟 Creator of kaguyabots
 
