@@ -39,11 +39,11 @@ I'm fskhrijuanda a Not Developer and Not Content Creator on [Youtube](https://yo
 ###
 
 ```python
-from github.zYxDevs.db import quote
+from github.fskhrijuanda.db import quote
 
-class zYxDevs():
+class fskhrijuanda():
     def __init__(self):
-        self.name = ['Yoga Pranata']
+        self.name = ['Fakhri Djuanda']
         self.country = ['Indonesia']
         self.language = ['Indonesia', 'English']
 
