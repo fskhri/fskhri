@@ -36,6 +36,29 @@ I'm fskhrijuanda a Not Developer and Not Content Creator on [Youtube](https://yo
 
 <br />
 
+###
+
+```python
+from github.zYxDevs.db import quote
+
+class zYxDevs():
+    def __init__(self):
+        self.name = ['Yoga Pranata']
+        self.country = ['Indonesia']
+        self.language = ['Indonesia', 'English']
+
+    def quotes(quote):
+        if quote.Quotes == None:
+            quote.Quotes.add('No matter who you are, the matter is what you are.')
+            return quotes
+        else:
+            print(quote.Quotes)
+
+print('See you again👋')
+```
+
+##
+
 
 <details>
 <summary>
