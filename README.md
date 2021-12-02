@@ -17,9 +17,8 @@ if __name__ == "__main__":
 
 
 
-<div align="center">
-<img src="https://github.com/fskhrijuanda/fskhrijuanda/blob/master/e1e90a27438a96bc7579956bf43dee03.gif" align="center" style="width: 100%" />
-</div>  
+<a href="//Instagram.com/caliph91_"><img align="center" src="https://cardivo.vercel.app/api?name=Fakhri&description=Hi,%20i%27m%20Fakhri%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/41115223?v=4=CAU&backgroundColor=%23ecf0f1&instagram=@riririfak&github=fskhrijuanda&pattern=ticTacToe&colorPattern=%23eaeaea"/></a>
+</p>
 
 
 
