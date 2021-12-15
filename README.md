@@ -88,7 +88,7 @@ print('See you again👋')
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 mins          ████████████████████████▓   98.28 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
