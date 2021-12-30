@@ -33,10 +33,11 @@ I'm fskhrijuanda a Not Developer and Not Content Creator on [Youtube](https://yo
 [![Twitter Badge](https://img.shields.io/badge/-NotF-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Fakhri50434989)](https://twitter.com/Fakhri50434989) [![Mail Badge](https://img.shields.io/badge/-@riririfak-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/riririfak)
 <!-- TODO: Add last video link -->
 
-- 🤔 Cuma belajar dari youtube dan meniru nya
+- 🤔 Nasi Goreng Enthusiast
 - 😄 Bukan Developer
+- 💼 Junior FullStack Dev
+- 🛡️ Cyber Security
 - ⚡ Gw seneng main game
-- 💼 Menjadi moderator di discord selama 2 tahun
 - 🌟 Creator of kaguyabots
 
 ### Listening To Spotify 🎧
