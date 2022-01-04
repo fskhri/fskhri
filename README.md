@@ -89,8 +89,7 @@ print('See you again👋')
 
 <!--START_SECTION:waka-->
 ```text
-JSON         4 mins          ██████████████░░░░░░░░░░░   56.58 % 
-JavaScript   3 mins          ███████████░░░░░░░░░░░░░░   43.42 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
