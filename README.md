@@ -100,22 +100,22 @@ No Activity tracked this Week
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fskhrijuanda&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fskhri&layout=compact&theme=radical" />
 </a>
 
 </a>
 <a href="https://github.com/fskhri/Clock-bot-discord">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fskhrijuanda&repo=Clock-bot-discord&theme=radical" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fskhri&repo=Clock-bot-discord&theme=radical" />
 </a>
 
 </a>
 <a href="https://github.com/fskhri/Not-Waifu-Bot">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fskhrijuanda&repo=Not-Waifu-Bot&theme=radical" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fskhri&repo=Not-Waifu-Bot&theme=radical" />
 </a> 
 
 </a>
 <a href="https://github.com/fskhri/Discord-bot-Stream">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fskhrijuanda&repo=Discord-bot-Stream&theme=radical" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fskhri&repo=Discord-bot-Stream&theme=radical" />
 </a> 
 
 </details>
