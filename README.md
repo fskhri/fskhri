@@ -109,8 +109,8 @@ No Activity tracked this Week
 </a>
 
 </a>
-<a href="https://github.com/fskhri/Not-Waifu-Bot">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fskhri&repo=Not-Waifu-Bot&theme=radical" />
+<a href="https://github.com/fskhri/Internet-Download-Manager-Crack">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fskhri&repo=Internet-Download-Manager-Crack&theme=radical" />
 </a> 
 
 </a>
