@@ -95,7 +95,7 @@ No Activity tracked this Week
 
 #### Github Stats
 
-![Fakhri github stats](https://github-readme-stats.vercel.app/api?username=fskhria&count_private=true&show_icons=true&theme=radical)
+![Fakhri github stats](https://github-readme-stats.vercel.app/api?username=fskhri&count_private=true&show_icons=true&theme=radical)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
