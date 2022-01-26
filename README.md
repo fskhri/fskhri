@@ -95,7 +95,7 @@ No Activity tracked this Week
 
 #### Github Stats
 
-![Fakhri github stats](https://github-readme-stats.vercel.app/api?username=fskhrijuanda&count_private=true&show_icons=true&theme=radical)
+![Fakhri github stats](https://github-readme-stats.vercel.app/api?username=fskhria&count_private=true&show_icons=true&theme=radical)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -104,17 +104,17 @@ No Activity tracked this Week
 </a>
 
 </a>
-<a href="https://github.com/fskhrijuanda/Clock-bot-discord">
+<a href="https://github.com/fskhri/Clock-bot-discord">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fskhrijuanda&repo=Clock-bot-discord&theme=radical" />
 </a>
 
 </a>
-<a href="https://github.com/fskhrijuanda/Not-Waifu-Bot">
+<a href="https://github.com/fskhri/Not-Waifu-Bot">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fskhrijuanda&repo=Not-Waifu-Bot&theme=radical" />
 </a> 
 
 </a>
-<a href="https://github.com/fskhrijuanda/Discord-bot-Stream">
+<a href="https://github.com/fskhri/Discord-bot-Stream">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fskhrijuanda&repo=Discord-bot-Stream&theme=radical" />
 </a> 
 
@@ -124,7 +124,7 @@ No Activity tracked this Week
 * <a href="https://trakteer.id/fakhrijuanda12" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
 
 <p align="center">
-<a href="https://github.com/fskhrijuanda"><img title="Author" src="https://img.shields.io/badge/badge/Author-Fakhri-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/fskhri"><img title="Author" src="https://img.shields.io/badge/badge/Author-Fakhri-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 
