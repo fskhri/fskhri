@@ -89,7 +89,8 @@ print('See you again👋')
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML     29 mins         █████████████████████▒░░░   85.62 % 
+Python   5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 % 
 ```
 <!--END_SECTION:waka-->
 
