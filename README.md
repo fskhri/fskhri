@@ -26,7 +26,7 @@ if __name__ == "__main__":
 
 I'm fskhrijuanda a Not Developer and Not Content Creator on [Youtube](https://youtu.be/dQw4w9WgXcQ).
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/433077782881370112?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/433077782881370112)
+[![Discord Presence](https://discord.c99.nl/widget/theme-1/433077782881370112.png)
 
 
 
