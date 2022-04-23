@@ -25,7 +25,7 @@ if __name__ == "__main__":
 
 I'm fskhrijuanda a Not Developer and Not Content Creator on [Youtube](https://youtu.be/dQw4w9WgXcQ).
 
-![Discord Presence](https://discord.c99.nl/widget/theme-1/433077782881370112.png)
+![Discord Presence](https://discord.c99.nl/widget/theme-2/433077782881370112.png)
 
 
 
