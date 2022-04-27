@@ -75,7 +75,7 @@ class fskhrijuanda():
 print('See you again👋')
 ```
 
-<a href="https://discord.com/widget?id=897419993094959115&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox ">
+<a href="https://discord.com/widget?id=897419993094959115&theme=dark">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://discord.com/widget?id=897419993094959115&theme=dark" />
 </a>
