@@ -75,7 +75,7 @@ class fskhrijuanda():
 print('See you again👋')
 ```
 
-![Discord Server](https://discord.com/widget?id=897419993094959115&theme=dark) width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+![Discord Server](https://discord.com/widget?id=897419993094959115&theme=dark)
 
 ##
 
