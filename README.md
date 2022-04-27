@@ -75,10 +75,7 @@ class fskhrijuanda():
 print('See you again👋')
 ```
 
-<a href="https://discord.com/api/guilds/897419993094959115/widget.json">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://discord.com/api/guilds/897419993094959115/widget.json" />
-</a>
+![DiscordBanner4](https://discordapp.com/api/guilds/897419993094959115/widget.png?style=banner4)
 
 ##
 
