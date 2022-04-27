@@ -75,7 +75,7 @@ class fskhrijuanda():
 print('See you again👋')
 ```
 
-![DiscordBanner4](https://discordapp.com/api/guilds/897419993094959115/widget.png&theme=dark?style=banner4)
+![DiscordBanner4](https://discordapp.com/api/guilds/897419993094959115/widget.png?style=banner4)
 
 ##
 
