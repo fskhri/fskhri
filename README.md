@@ -132,4 +132,10 @@ Other        0 secs          ▒░░░░░░░░░░░░░░░░
 <a href="https://github.com/fskhri"><img title="Author" src="https://img.shields.io/badge/badge/Author-Fakhri-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
+<br />
+
+<h3 align="center">Anyway, thanks for coming!</h2>  
+<p align="center">
+    <img src="https://ctl.s6img.com/society6/img/Bm1TLx-ODLrqcGWmVjnN1UA6My8/w_700/coffee-mugs/swatch/~artwork,fw_4601,fh_1998,fx_-1449,fy_-2375,iw_7100,ih_7100/s6-original-art-uploads/society6/uploads/misc/452ff72725a0458aa1e1b87f0c11b63f/~~/cowboy-bebop-see-you-space-cowboy-mugs.jpg?wait=0&attempt=0">
+</p>
 
