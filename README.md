@@ -40,7 +40,7 @@ I'm fskhrijuanda I'm a Developer Not a Content Creator at [Youtube](https://yout
 
 ### Listening To Spotify 🎧
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qh67in4qqasw67wx2illmzg3cy&cover_image=true&theme=dark&bar_color_cover=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qh67in4qqasw67wx2illmzg3cy&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31qh67in4qqasw67wx2illmzg3cy&redirect=true)
 
 #### Top Technologies
 
