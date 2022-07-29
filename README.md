@@ -14,8 +14,6 @@ if __name__ == "__main__":
     print(say_hello("Hello there 👋, I'm Fskhrijuanda, Nice to meet you all!"))
 ```
 
-<code><iframe src="https://discord.com/widget?id=873183529318625280&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe><code>
-
 
 
 
