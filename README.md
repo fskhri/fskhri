@@ -31,7 +31,7 @@ I'm fskhrijuanda I'm a Developer Not a Content Creator at [Youtube](https://yout
 
 - 🤔 Nasi Goreng Enthusiast
 - 😄 Bukan Developer
-- 💼 Junior FullStack Dev
+- 💼 Frontend Devloper
 - 🛡️ Cyber Security
 - ⚡ Gw seneng main game
 - 🌟 Creator of kaguyabots
