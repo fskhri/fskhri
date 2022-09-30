@@ -30,10 +30,8 @@ I'm fskhrijuanda I'm a Developer Not a Content Creator at [Youtube](https://yout
 <!-- TODO: Add last video link -->
 
 - 🤔 Nasi Goreng Enthusiast
-- 😄 Bukan Developer
 - 💼 Backend Devloper
-- 🛡️ Cyber Security
-- ⚡ Gw seneng main game
+- ⚡ Competitive Player
 - 🌟 Creator of kaguyabots
 
 ### Listening To Spotify 🎧
