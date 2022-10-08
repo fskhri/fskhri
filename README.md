@@ -24,7 +24,7 @@ I'm fskhrijuanda I'm a Developer Not a Content Creator at [Youtube](https://yout
 
 ![Discord Presence](https://discord.c99.nl/widget/theme-2/433077782881370112.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Indonesian+People+Devloper;Open-Source+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Indonesian+People;Open-Source+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 [![Twitter Badge](https://img.shields.io/badge/-NotF-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Not_Fakhri)](https://twitter.com/Not_Fakhri) [![Mail Badge](https://img.shields.io/badge/-@riririfak-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/riririfak)
 <!-- TODO: Add last video link -->
