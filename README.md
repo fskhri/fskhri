@@ -14,7 +14,7 @@ if __name__ == "__main__":
     print(say_hello("Hello there 👋, I'm Fskhrijuanda, Nice to meet you all!"))
 ```
 
-
+![Views](https://komarev.com/ghpvc/?username=fskhri&color=green)
 
 
 
