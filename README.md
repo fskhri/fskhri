@@ -17,7 +17,7 @@ if __name__ == "__main__":
 ![Views](https://komarev.com/ghpvc/?username=fskhri&color=green)
 
 
-https://camo.githubusercontent.com/8a55dbfb1b5ce2dce1b4a194d5f40a2657bb08c5e4aa2293b7dcbaed098a1e6b/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f62616e6e6572732f313531353237313437333738323432373635312f313635333231373833302f36303078323030
+![I am development from Indonesia](https://pbs.twimg.com/profile_banners/1515271473782427651/1653217830/600x200)
 
 
 ## Hi I'm fskhrijuanda <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
