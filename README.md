@@ -29,7 +29,7 @@ I'm fskhrijuanda I'm a Developer Not a Content Creator at [Youtube](https://yout
 <!-- TODO: Add last video link -->
 
 - 🤔 Nasi Goreng Enthusiast
-- 💼 Front End Devloper
+- 💼 Front End Developer
 - ⚡ Competitive Player
 - 🌟 Creator of kaguyabots
 
