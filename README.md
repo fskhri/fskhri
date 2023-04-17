@@ -48,8 +48,6 @@ I'm fakhri I'm a Developer Not a Content Creator at [Youtube](https://youtu.be/d
 
 <br />
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-
 ###
 
 ```python
