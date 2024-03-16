@@ -31,7 +31,6 @@ I'm fakhri I'm a Developer Not a Content Creator at [Youtube](https://youtu.be/d
 - 🤔 Nasi Goreng Enthusiast
 - 💼 Backend Developer, Android Development
 - ⚡ Competitive Player
-- 🌟 Creator of kaguyabots
 
 ### Listening To Spotify 🎧
 
