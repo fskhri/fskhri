@@ -29,7 +29,7 @@ I'm fakhri I'm a Developer Not a Content Creator at [Youtube](https://youtu.be/d
 <!-- TODO: Add last video link -->
 
 - 🤔 Nasi Goreng Enthusiast
-- 💼 FullStack Developer, Android Development
+- 💼 Backend Developer, Android Development
 - ⚡ Competitive Player
 - 🌟 Creator of kaguyabots
 
