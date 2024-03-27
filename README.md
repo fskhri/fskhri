@@ -25,7 +25,7 @@ I'm fakhri I'm a Developer Not a Content Creator at [Youtube](https://youtu.be/d
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Indonesian+People;Open-Source+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-[![Twitter Badge](https://img.shields.io/badge/-NotF-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Not_Fakhri)](https://twitter.com/Not_Fakhri) [![Mail Badge](https://img.shields.io/badge/-@riririfak-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/riririfak)
+[![Twitter Badge](https://img.shields.io/badge/-NotF-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Not_Fakhri)](https://twitter.com/Not_Fakhri1) [![Mail Badge](https://img.shields.io/badge/-@riririfak-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/riririfak1)
 <!-- TODO: Add last video link -->
 
 - 🤔 Nasi Goreng Enthusiast
