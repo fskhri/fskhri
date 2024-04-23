@@ -34,7 +34,7 @@ I'm fakhri I'm a Developer Not a Content Creator at [Youtube](https://youtu.be/d
 
 ### Listening To Spotify 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qh67in4qqasw67wx2illmzg3cy&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31qh67in4qqasw67wx2illmzg3cy&redirect=true)
+[![spotify](https://npaas.vercel.app/api/spotify)](https://open.spotify.com/user/31qh67in4qqasw67wx2illmzg3cy)
 
 #### Top Technologies
 
