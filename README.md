@@ -34,7 +34,7 @@ I'm fakhri I'm a Developer Not a Content Creator at [Youtube](https://youtu.be/d
 
 ### Listening To Spotify 🎧
 
-[<img src="https://vercel.live/link/spotify-git-main-fskhrijuandas-projects.vercel.app?via=deployment-domains-list-branch/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/2svR3lTZ0z5FGpQEEyxX6T?uid=4ff060a857aaade326da&uri=spotify%3Atrack%3A62jRnx00x70YtsbFSauH5m)
+[<img src="https://vercel.live/link/spotify-git-main-fskhrijuandas-projects.vercel.app?via=deployment-domains-list-branch/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31qh67in4qqasw67wx2illmzg3cy)
 
 #### Top Technologies
 
