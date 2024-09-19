@@ -15,6 +15,7 @@ if __name__ == "__main__":
 ```
 
 ![Views](https://komarev.com/ghpvc/?username=fskhri&color=green)
+![JKT48](https://uptime.fskhri.online/api/badge/8/status)
 
 
 ## Hi I'm fskhrijuanda <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
